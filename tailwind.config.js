@@ -10,7 +10,19 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        red: "red",
+        green: "#276E48",
       },
+    },
+    borderColor: {
+      red: "red",
+      white: "white",
+    },
+    borderWidth: {
+      2: "2px",
+    },
+    fontFamily: {
+      GeistVF: "GeistVF",
     },
   },
   plugins: [],
